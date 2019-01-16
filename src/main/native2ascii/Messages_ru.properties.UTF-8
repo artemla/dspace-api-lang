@@ -60,9 +60,9 @@ browse.order.desc = по убыванию
 
 feedback.error.forbidden = Форма обратной связи может быть вызвана только с другой страницы DSpace
 
-help.collection-admin = /help/collection-admin_ru.html
-help.index = /help/index_ru.html
-help.site-admin = /help/site-admin_ru.html
+help.collection-admin = /help/collection-admin.html
+help.index = /help/index.html
+help.site-admin = /help/site-admin.html
 help.formats = /help/formats.jsp
 
 itemlist.dc.contributor.* = Автор(ы)

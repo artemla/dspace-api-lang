@@ -60,9 +60,9 @@ browse.order.desc = за спаданням
 
 feedback.error.forbidden = Форма зворотного зв’язку може бути викликана лише з іншої сторінки DSpace
 
-help.collection-admin = /help/collection-admin_uk.html
-help.index = /help/index_uk.html
-help.site-admin = /help/site-admin_uk.html
+help.collection-admin = /help/collection-admin.html
+help.index = /help/index.html
+help.site-admin = /help/site-admin.html
 help.formats = /help/formats.jsp
 
 itemlist.dc.contributor.* = Автор(и)
