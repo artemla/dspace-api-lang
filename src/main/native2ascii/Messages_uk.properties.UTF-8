@@ -593,8 +593,8 @@ jsp.layout.footer-default.text = <a target="_blank" href="http://www.dspace.org/
 jsp.layout.footer-default.theme-by = Тема від
 jsp.layout.header-default.about = Про систему DSpace
 jsp.layout.header-default.alt = DSpace
-jsp.layout.header-default.brand.heading = DSpace <small>JSPUI</small>
-jsp.layout.header-default.brand.description = <h4>DSpace зберігає і дозволяє легкий і відкритий доступ до всіх видів цифрового контенту, включаючи текст, зображення, анімовані зображення, MPEG і набори даних</h4> <a href="http://www.dspace.org" class="btn btn-primary">Дізнатися більше</a>
+jsp.layout.header-default.brand.heading = Репозиторій ЧДТУ
+jsp.layout.header-default.brand.description = <h4>Репозиторій ЧДТУ зберігає і дозволяє легкий і відкритий доступ до всіх видів цифрового контенту, включаючи текст, зображення, анімовані зображення, MPEG і набори даних</h4> <a href="http://www.dspace.org" class="btn btn-primary">Дізнатися більше</a>
 jsp.layout.navbar-admin.authorization = Дозволи
 jsp.layout.navbar-admin.communities-collections = Фонди/Зібрання
 jsp.layout.navbar-admin.curate = Завдання на курирування
