@@ -1490,6 +1490,7 @@ metadata.dc.identifier.govdoc = Держ. док-т
 metadata.dc.identifier.isbn = ISBN
 metadata.dc.identifier.ismn = ISMN
 metadata.dc.identifier.issn = ISSN
+metadata.dc.identifier.doi = DOI
 metadata.dc.identifier.uri = URI (Уніфікований ідентифікатор ресурсу)
 metadata.dc.publisher = Видавництво
 metadata.dc.relation.ispartofseries = Серія/номер
